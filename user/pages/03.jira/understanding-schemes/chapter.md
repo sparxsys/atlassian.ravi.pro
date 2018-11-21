@@ -1,9 +1,8 @@
 ---
-title: 'Benefits of using Jira'
+title: 'Understanding Schemes'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-Oh yeah benefits
