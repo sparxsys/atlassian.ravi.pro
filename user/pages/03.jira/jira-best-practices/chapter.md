@@ -1,9 +1,9 @@
 ---
-title: 'Introduction to Jira'
+title: 'Jira best practices'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-Jira is an issue tracking tool.
+Best practices
