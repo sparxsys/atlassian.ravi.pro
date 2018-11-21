@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1542826944,
-    'checksum' => '793f648cdc699ffc84f760aca3e85711',
+    'timestamp' => 1542833493,
+    'checksum' => '83e09f684ebd15e2110e363b90315657',
     'files' => [
         'user/config' => [
             'media' => [
@@ -15,7 +15,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1542027624
+                'modified' => 1542833493
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -563,11 +563,11 @@ return [
             'salt' => 'uYWxqirJtML2Kk'
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'Ravi Sagar',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@example.com'
+                'name' => 'Ravi Sagar',
+                'email' => 'ravisagar@gmail.com'
             ],
             'taxonomies' => [
                 0 => 'category',
