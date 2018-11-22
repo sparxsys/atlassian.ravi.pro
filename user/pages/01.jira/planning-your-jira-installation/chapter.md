@@ -3,7 +3,7 @@ title: 'Planning your Jira installation'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Please plan it first.

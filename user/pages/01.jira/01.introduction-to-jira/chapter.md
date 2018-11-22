@@ -5,5 +5,5 @@ taxonomy:
         - docs
 visible: true
 ---
-
 Jira is an issue tracking tool.
+

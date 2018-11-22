@@ -3,7 +3,7 @@ title: 'Jira best practices'
 taxonomy:
     category:
         - docs
-visible: true
+visible: false
 ---
 
 Best practices
