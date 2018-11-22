@@ -22,7 +22,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: learn2
+  theme: sparxsystheme
   order:
     by: default
     dir: asc
