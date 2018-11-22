@@ -5,9 +5,9 @@ show_all_pages: false                               # Show all pages without hav
 google_analytics_code:                              UA-114608682-2
 home_url:                                           # http://getgrav.org
 github:
-    position: top                                   # top | bottom | off
-    tree: https://github.com/getgrav/grav-skeleton-rtfm-site/blob/develop/
-    commits: https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/
+    position: bottom                                   # top | bottom | off
+    tree: https://github.com/sparxsys/atlassian.ravi.pro/tree/master/user/
+    commits: https://github.com/sparxsys/atlassian.ravi.pro/commits/master
 streams:
  schemes:
    theme:
